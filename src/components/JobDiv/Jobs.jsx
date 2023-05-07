@@ -101,11 +101,6 @@ const Jobs = () => {
   ];
 
 // above is a single company and now to be map in the const of Jobs below //
-// add more data objects as needed
-
-
-let count = 0;
-
 
   return (
     <div>
